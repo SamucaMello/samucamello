@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Samuel
 
-<!--
-**SamucaMello/samucamello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Back-end
+🔧 Focado em construção de APIs, bancos de dados e sistemas escaláveis
+🚀 Atualmente trabalhando com: Node.js, Python, C# e bancos relacionais e não relacionais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou um desenvolvedor back-end com interesse em criar sistemas eficientes, seguros e bem estruturados. Gosto de trabalhar com lógica, arquitetura e otimização de performance.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- 💡 Linguagens: JavaScript, TypeScript, Python, C#  
+- ⚙️ Back-end: Node.js, Express, FastAPI, ASP.NET  
+- 🗄️ Banco de dados: MongoDB, MySQL  
+- 🔧 Ferramentas: Git, Docker, VS Code  
+- 🔐 Outros: APIs REST, autenticação, integração de serviços  
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samucamello\&show_icons=true\&theme=dark)
+
+---
+
+## 📚 Atualmente estudando
+- Desenvolvimento de APIs com ASP.NET  
+- Arquitetura de software e padrões de projeto  
+- Microsserviços  
+- Segurança em aplicações web  
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/samuel-mello-de-campos-e-silva/
+* Email: samuelmello1808@gmail.com
+
+---
+
+⚡ Aplicando boas práticas e arquitetura para construir sistemas confiáveis e escaláveis.
