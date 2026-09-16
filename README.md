@@ -28,7 +28,7 @@ Sou um desenvolvedor back-end com interesse em criar sistemas eficientes, seguro
 ---
 
 ## 📚 Atualmente estudando
-- Desenvolvimento de APIs com ASP.NET  
+- Desenvolvimento de APIs
 - Arquitetura de software e padrões de projeto  
 - Microsserviços  
 - Segurança em aplicações web  
