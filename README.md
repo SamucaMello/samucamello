@@ -26,8 +26,6 @@ API para gerenciamento de informações acadêmicas, desenvolvida com FastAPI, B
 
 [Ver projeto no GitHub](https://github.com/SamucaMello/Sistema-Academico)
 
----
-
 
 ---
 
