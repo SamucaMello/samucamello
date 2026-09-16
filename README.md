@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Back-end
 🔧 Focado em construção de APIs, bancos de dados e sistemas escaláveis
-🚀 Atualmente trabalhando com: Node.js, Python, C# e bancos relacionais e não relacionais
+🚀 Atualmente trabalhando com: Node.js, Python, TypeScript e bancos relacionais e não relacionais
 
 ---
 
@@ -13,8 +13,8 @@ Sou um desenvolvedor back-end com interesse em criar sistemas eficientes, seguro
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- 💡 Linguagens: JavaScript, TypeScript, Python, C#  
-- ⚙️ Back-end: Node.js, Express, FastAPI, ASP.NET  
+- 💡 Linguagens: JavaScript, TypeScript, Python
+- ⚙️ Back-end: Node.js, Express, FastAPI, Fastify
 - 🗄️ Banco de dados: MongoDB, MySQL  
 - 🔧 Ferramentas: Git, Docker, VS Code  
 - 🔐 Outros: APIs REST, autenticação, integração de serviços  
