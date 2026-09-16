@@ -1,14 +1,9 @@
 # 👋 Olá, eu sou o Samuel
 
 💻 Desenvolvedor Back-end
-🔧 Focado em construção de APIs, bancos de dados e sistemas escaláveis
-🚀 Atualmente trabalhando com: Node.js, Python, TypeScript e bancos relacionais e não relacionais
+🚀 Node.js, Python, TypeScript e bancos de dados SQL e NoSQL.
+Focado no desenvolvimento de APIs, sistemas eficientes e soluções bem estruturadas.
 
----
-
-## 🧠 Sobre mim
-
-Sou um desenvolvedor back-end com interesse em criar sistemas eficientes, seguros e bem estruturados. Gosto de trabalhar com lógica, arquitetura e otimização de performance.
 
 ---
 
@@ -21,9 +16,18 @@ Sou um desenvolvedor back-end com interesse em criar sistemas eficientes, seguro
 
 ---
 
-## 📈 Estatísticas
+## 🚀 Projetos em destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samucamello\&show_icons=true\&theme=dark)
+### 🎓 Sistema Acadêmico Multiplataforma
+
+API para gerenciamento de informações acadêmicas, desenvolvida com FastAPI, Beanie, MongoDB e Redis.
+
+**Tecnologias:** Python, FastAPI, Beanie, MongoDB, Redis, Docker.
+
+[Ver projeto no GitHub](https://github.com/SamucaMello/Sistema-Academico)
+
+---
+
 
 ---
 
